@@ -2,9 +2,9 @@
 
 **Analista de QA formada pela TripleTen (2026)**
 
-📍 Alba Adriatica, Itália · 💼 Buscando vagas remotas de Analista de QA Júnior (Europa / Brasil — fuso compatível)
+ Alba Adriatica, Itália · Buscando vagas remotas de Analista de QA Júnior (Europa / Brasil — fuso compatível)
 
-📧 paulistaitalia28@gmail.com · 💼 linkedin.com/in/fernanda-gomes-a1aa92296
+ paulistaitalia28@gmail.com ·  linkedin.com/in/fernanda-gomes-a1aa92296
 
 ---
 
@@ -24,23 +24,23 @@ Este repositório reúne os principais projetos que desenvolvi durante o **Bootc
 
 ## Cases documentados
 
-### 📁 [Sprint 1 — Regressão Urban Routes](./sprint1-regressao-urban-routes/)
+###  [Sprint 1 — Regressão Urban Routes](./sprint1-regressao-urban-routes/)
 
 Execução de suite de regressão em plataforma web. Casos de teste + relatórios de bug documentados.
 
-### 📁 [Sprint 3 — Testes Web Cross-Browser](./sprint3-testes-web-cross-browser/)
+###  [Sprint 3 — Testes Web Cross-Browser](./sprint3-testes-web-cross-browser/)
 
 Aplicação de técnicas de particionamento por classes de equivalência. Bugs cross-browser documentados.
 
-### 📁 [Sprint 4 — Testes de API (Order and Go)](./sprint4-teste-api-order-and-go/)
+###  [Sprint 4 — Testes de API (Order and Go)](./sprint4-teste-api-order-and-go/)
 
 Coleção Postman com testes POST/DELETE e validação de contratos.
 
-### 📁 [Sprint 8 — Automação Selenium + POM](https://github.com/paulistaitalia28-cpu/QA-Brazil_Python_Automation)
+###  [Sprint 8 — Automação Selenium + POM](https://github.com/paulistaitalia28-cpu/QA-Brazil_Python_Automation)
 
 Automação Web em Python + Selenium + Pytest, seguindo Page Object Model (separação entre `main.py` e `pages.py`). **Código completo no repositório linkado.**
 
-### 📁 [Sprint 9 — Projeto Final](./sprint9-projeto-final/)
+### [Sprint 9 — Projeto Final](./sprint9-projeto-final/)
 
 Entrega consolidada de testes Web + Mobile + API: 77 casos de teste web (cobertura completa de campos), 26 casos de teste de API (POST/DELETE), cenários criativos (SQL Injection, testes de limite) e bugs documentados no Jira com evidências.
 
@@ -80,6 +80,6 @@ Certificado de conclusão emitido.
 
 ## Contato
 
-📧 paulistaitalia28@gmail.com
+ paulistaitalia28@gmail.com
 💼 linkedin.com/in/fernanda-gomes-a1aa92296
 🌐 GitHub: [@paulistaitalia28-cpu](https://github.com/paulistaitalia28-cpu)
